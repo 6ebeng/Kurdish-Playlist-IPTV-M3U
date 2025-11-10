@@ -1,6 +1,6 @@
-# M3U Stream Tester
+# Kurdish-Playlist-IPTV-M3U
 
-A Python script to test all stream URLs in M3U playlist files and check if they're working.
+A Python script to test and manage M3U playlist files for Kurdish and Arabic IPTV streams. This tool helps you validate stream URLs, remove broken links, and maintain clean playlists.
 
 ## Features
 
@@ -29,64 +29,71 @@ pip install requests
 ### Basic usage (automatically saves not working streams):
 
 ```powershell
-python test_streams.py arabic.m3u
+python test_streams.py Chennels.m3u
 ```
 
-This will test all streams and create `arabic_notworking.m3u` with failed/broken links.
+This will test all streams and create `Chennels_notworking.m3u` with failed/broken links.
 
 ### Split into working and not working files:
 
 ```powershell
-python test_streams.py arabic.m3u --split
+python test_streams.py Chennels.m3u --split
 ```
 
 Creates:
 
-- `arabic_working.m3u` - Only working streams
-- `arabic_notworking.m3u` - Failed and invalid streams
+- `Chennels_working.m3u` - Only working streams
+- `Chennels_notworking.m3u` - Failed and invalid streams
 
 ### Update original file (removes broken streams):
 
 ```powershell
-python test_streams.py arabic.m3u --update-original
+python test_streams.py Chennels.m3u --update-original
 ```
 
-This creates a backup (`arabic.m3u.backup`) and removes all failed/invalid streams from the original file.
+This creates a backup (`Chennels.m3u.backup`) and removes all failed/invalid streams from the original file.
 
-### Test with custom timeout (15 seconds):
+### Test with custom timeout and workers:
 
 ```powershell
-python test_streams.py arabic.m3u -t 15
+python test_streams.py Chennels.m3u -t 8 -w 15
 ```
 
 ### Save detailed report to file:
 
 ```powershell
-python test_streams.py arabic.m3u -o report.txt
+python test_streams.py Chennels.m3u -o report.txt
 ```
 
 ### Quiet mode (only show summary):
 
 ```powershell
-python test_streams.py arabic.m3u -q
+python test_streams.py Chennels.m3u -q
 ```
 
-### Test Kurdish playlist:
+### Test individual playlists:
 
 ```powershell
+# Test Kurdish channels only
 python test_streams.py kurdish.m3u
+
+# Test Arabic channels only
+python test_streams.py arabic.m3u
+
+# Test combined playlist
+python test_streams.py Chennels.m3u
 ```
 
-### Complete workflow (test, split, and save report):
+### Complete workflow (test, update, and save report):
 
 ```powershell
-python test_streams.py arabic.m3u --split -o arabic_report.txt
+python test_streams.py Chennels.m3u --update-original -t 8 -w 15 -o report.txt
 ```
 
 ### Custom output filenames:
 
 ```powershell
-python test_streams.py arabic.m3u --split --working-file arabic_good.m3u --notworking-file arabic_bad.m3u
+python test_streams.py Chennels.m3u --split --working-file channels_good.m3u --notworking-file channels_bad.m3u
 ```
 
 ## Command Line Options
@@ -114,33 +121,33 @@ The script will show:
 
 ```
 ================================================================================
-Testing 117 streams...
+Testing 172 streams...
 ================================================================================
 
-✓ [1/117] MBC 1                                     | Line    3 | OK (200)
-✓ [2/117] MBC 2                                     | Line    5 | OK (200)
-⚠ [3/117] Roya Kitchen                              | Line  161 | INVALID: Malformed URL (duplicate protocol or typo)
-✗ [4/117] Some Channel                              | Line   10 | FAILED: Timeout
+✓ [1/172] NRT Sport ᴴᴰ                             | Line   29 | OK (200)
+✓ [2/172] Shna TV ᴴᴰ                               | Line   31 | OK (200)
+✗ [43/172] Mihrab TV ᴴᴰ                            | Line   95 | FAILED: HTTP 404
+✓ [100/172] Soz Quran ᴴᴰ                           | Line  201 | OK (200)
 
 ================================================================================
 SUMMARY
 ================================================================================
-Total Streams:   117
-✓ Working:       95 (81.2%)
-✗ Failed:        20 (17.1%)
-⚠ Invalid URLs:  2 (1.7%)
+Total Streams:   172
+✓ Working:       157 (91.3%)
+✗ Failed:        15 (8.7%)
+⚠ Invalid URLs:  0 (0.0%)
 ================================================================================
 ```
 
-## Issues Found in Your Playlist
+## Playlist Files
 
-The script detected some malformed URLs in your `arabic.m3u` file:
+This repository contains the following playlists:
 
-1. **Line 161** - Roya Kitchen: `https'://https://www.google.com/...` (duplicate protocol)
-2. **Line 105** - Hawas: `httpsG://...` (typo in protocol)
-3. **Line 95** - AL Itihad: Contains Google search URL instead of stream URL
+- **Chennels.m3u** - Combined playlist with Kurdish (104 channels) and Arabic (69 channels) streams
+- **kurdish.m3u** - Kurdish channels only (104 channels)
+- **arabic.m3u** - Arabic channels only (68 working channels)
 
-These should be fixed for the streams to work properly.
+All playlists are regularly tested and cleaned to ensure stream quality.
 
 ## Tips
 

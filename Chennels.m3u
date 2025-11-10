@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="" refresh="3600"
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Channel 8 ᴴᴰ
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 ᴴᴰ" group-title="Kurdish Channels",Channel 8 ᴴᴰ
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Kurdsat ᴴᴰ" group-title="Kurdish Channels",Kurdsat ᴴᴰ
 https://live9.karwan.tv/Kurdsattvyusfstore/index.m3u8
@@ -11,23 +11,23 @@ https://live.host247.net/gk/gksat/playlist.m3u8
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Payam ᴴᴰ" group-title="Kurdish Channels",Payam ᴴᴰ
 https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Rudaw ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Rudaw ᴴᴰ
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Zoom ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Zoom ᴴᴰ
+#EXTINF:-1 tvg-id="7" tvg-name="Rudaw ᴴᴰ" group-title="Kurdish Channels",Rudaw ᴴᴰ
+https://hawezhd@svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Zoom ᴴᴰ" group-title="Kurdish Channels",Zoom ᴴᴰ
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Speda ᴴᴰ" group-title="Kurdish Channels",Speda ᴴᴰ
 https://live9.karwan.tv/Spedtvyusfstore/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Speda Drama ᴴᴰ" group-title="Kurdish Channels",Speda Drama ᴴᴰ
 https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Kurdistan 24 ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Kurdistan 24 ᴴᴰ
-https://d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="AVA Media ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",AVA Media ᴴᴰ
-https://iko-streamline-live1.akamaized.net/AVATV/master.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="NRT News ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",NRT News ᴴᴰ
+#EXTINF:-1 tvg-id="11" tvg-name="Kurdistan 24 ᴴᴰ" group-title="Kurdish Channels",Kurdistan 24 ᴴᴰ
+https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="AVA Media ᴴᴰ" group-title="Kurdish Channels",AVA Media ᴴᴰ
+https://hawez@iko-streamline-live1.akamaized.net/AVATV/master.m3u8?checkedby:hawezhd
+#EXTINF:-1 tvg-id="13" tvg-name="NRT News ᴴᴰ" group-title="Kurdish Channels",NRT News ᴴᴰ
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="NRT Sport ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",NRT Sport ᴴᴰ
-http://142.132.133.190:1935/live/NRT-SPORT-HawezHD/HawezHD.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Shna TV ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Shna TV ᴴᴰ
+#EXTINF:-1 tvg-id="14" tvg-name="NRT Sport ᴴᴰ" group-title="Kurdish Channels",NRT Sport ᴴᴰ
+http://hawez@142.132.133.190:1935/live/NRT-SPORT-HawezHD/HawezHD.m3u8?checkedby:hawezHD
+#EXTINF:-1 tvg-id="15" tvg-name="Shna TV ᴴᴰ" group-title="Kurdish Channels",Shna TV ᴴᴰ
 http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Shna Quran ᴴᴰ" group-title="Kurdish Channels",Shna Quran ᴴᴰ
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
@@ -163,9 +163,9 @@ http://tv.ezanvaktipro.com/hls/quran.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Zarok TV ᴴᴰ" group-title="Kurdish Channels",Zarok TV ᴴᴰ
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="21 ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",21 ᴴᴰ
-http://k21hd.mypsx.net:40/live/KANALI/HawezHD.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="Spi Kids ᴴᴰ" tvg-logo="" group-title="Kurdish Channels",Spi Kids ᴴᴰ
+#EXTINF:-1 tvg-id="96" tvg-name="21 ᴴᴰ" group-title="Kurdish Channels",21 ᴴᴰ
+http://hawez@k21hd.mypsx.net:40/live/KANALI/HawezHD.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Spi Kids ᴴᴰ" group-title="Kurdish Channels",Spi Kids ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 tvg-id="98" tvg-name="Welat ᴴᴰ" group-title="Kurdish Channels",Welat ᴴᴰ
 http://stream.welattv.net:1935/welat/tv/playlist.m3u8
@@ -205,6 +205,8 @@ https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="118" tvg-name="Al jazeera Mubasheer" tvg-logo="" group-title="Arabic Channels",Al jazeera Mubasheer
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="Al Arabiya" tvg-logo="" group-title="Arabic Channels",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="Sky News Arabia" tvg-logo="http://widget.ottplayer.tv/pictures/22062.png" group-title="Arabic Channels",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="TRT Arabic" tvg-logo="" group-title="Arabic Channels",TRT Arabic

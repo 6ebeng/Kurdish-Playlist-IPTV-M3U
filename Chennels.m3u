@@ -1,0 +1,316 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 ᴴᴰ" group-title="Kurdish Channels",Channel 8 ᴴᴰ
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Kurdsat ᴴᴰ" group-title="Kurdish Channels",Kurdsat ᴴᴰ
+https://live9.karwan.tv/Kurdsattvyusfstore/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Kurdsat News ᴴᴰ" group-title="Kurdish Channels",Kurdsat News ᴴᴰ
+https://live9.karwan.tv/Kurdsatnewyusfstore/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Gali Kurdistan ᴴᴰ" group-title="Kurdish Channels",Gali Kurdistan ᴴᴰ
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Kirkuk ᴴᴰ" group-title="Kurdish Channels",Kirkuk ᴴᴰ
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Payam ᴴᴰ" group-title="Kurdish Channels",Payam ᴴᴰ
+https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Rudaw ᴴᴰ" group-title="Kurdish Channels",Rudaw ᴴᴰ
+https://hawezhd@svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Zoom ᴴᴰ" group-title="Kurdish Channels",Zoom ᴴᴰ
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Speda ᴴᴰ" group-title="Kurdish Channels",Speda ᴴᴰ
+https://live9.karwan.tv/Spedtvyusfstore/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Speda Drama ᴴᴰ" group-title="Kurdish Channels",Speda Drama ᴴᴰ
+https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Kurdistan 24 ᴴᴰ" group-title="Kurdish Channels",Kurdistan 24 ᴴᴰ
+https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="AVA Media ᴴᴰ" group-title="Kurdish Channels",AVA Media ᴴᴰ
+https://hawez@iko-streamline-live1.akamaized.net/AVATV/master.m3u8?checkedby:hawezhd
+#EXTINF:-1 tvg-id="13" tvg-name="NRT News ᴴᴰ" group-title="Kurdish Channels",NRT News ᴴᴰ
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="NRT Sport ᴴᴰ" group-title="Kurdish Channels",NRT Sport ᴴᴰ
+http://hawez@142.132.133.190:1935/live/NRT-SPORT-HawezHD/HawezHD.m3u8?checkedby:hawezHD
+#EXTINF:-1 tvg-id="15" tvg-name="Shna TV ᴴᴰ" group-title="Kurdish Channels",Shna TV ᴴᴰ
+http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Shna Quran ᴴᴰ" group-title="Kurdish Channels",Shna Quran ᴴᴰ
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Red TV ᴴᴰ" group-title="Kurdish Channels",Red TV ᴴᴰ
+http://avrstream.com:1935/live/REDTV/hawezhd.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Shar ᴴᴰ" group-title="Kurdish Channels",Shar ᴴᴰ
+http://avrstream.com:1935/live/SHARTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Shar Quran ᴴᴰ" group-title="Kurdish Channels",Shar Quran ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="IMK ᴴᴰ" group-title="Kurdish Channels",IMK ᴴᴰ
+http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="IMK Quran ᴴᴰ" group-title="Kurdish Channels",IMK Quran ᴴᴰ
+http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="Bask ᴴᴰ" group-title="Kurdish Channels",Bask ᴴᴰ
+http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Infinity ᴴᴰ" group-title="Kurdish Channels",Infinity ᴴᴰ
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Euro Kurd ᴴᴰ" group-title="Kurdish Channels",Euro Kurd ᴴᴰ
+http://baskhd.ddns.net:40/live/Eurokurd/hawezhd.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Sada ᴴᴰ" group-title="Kurdish Channels",Sada ᴴᴰ
+http://sada-hd.ddns.net:40/live/sadatv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Halabja ᴴᴰ" group-title="Kurdish Channels",Halabja ᴴᴰ
+http://halabjatv.ddns.net:40/live/halabjatv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Farmuda TV ᴴᴰ" group-title="Kurdish Channels",Farmuda TV ᴴᴰ
+http://avrstream.com:1935/live/FarmodaTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Khak ᴴᴰ" group-title="Kurdish Channels",Khak ᴴᴰ
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Mix ᴴᴰ" group-title="Kurdish Channels",Mix ᴴᴰ
+http://avrstream.com:1935/live/Mix-kurdy/hawezhd.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Alla ᴴᴰ" group-title="Kurdish Channels",Alla ᴴᴰ
+http://avrstream.com:1935/live/ala-hd/HawezHD.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="AVAR TV ᴴD" group-title="Kurdish Channels",AVAR TV ᴴD
+http://avrstream.com:1935/live/AvarTv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Spi ᴴᴰ" group-title="Kurdish Channels",Spi ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="Eman ᴴᴰ" group-title="Kurdish Channels",Eman ᴴᴰ
+http://avrstream.com:1935/live/emantv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="Kurdmax ᴴᴰ" group-title="Kurdish Channels",Kurdmax ᴴᴰ
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/HawezHD.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="Kurdmax Show ᴴᴰ" group-title="Kurdish Channels",Kurdmax Show ᴴᴰ
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/HawezHD.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="Derin ᴴᴰ" group-title="Kurdish Channels",Derin ᴴᴰ
+http://baskhd.ddns.net:40/live/Derin/HawezHD.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Barin Family ᴴᴰ" group-title="Kurdish Channels",Barin Family ᴴᴰ
+http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="Barin Quran ᴴᴰ" group-title="Kurdish Channels",Barin Quran ᴴᴰ
+http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Barin Movies ᴴᴰ" group-title="Kurdish Channels",Barin Movies ᴴᴰ
+http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Soran Entertainment ᴴᴰ" group-title="Kurdish Channels",Soran Entertainment ᴴᴰ
+http://avrstream.com:1935/live/SoranEntertainment/HawezHD.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Qellat TV ᴴᴰ" group-title="Kurdish Channels",Qellat TV ᴴᴰ
+http://213.32.255.86:1935/live/Qellat_tv/hawezhd.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="Garyan Media ᴴᴰ" group-title="Kurdish Channels",Garyan Media ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="4Kurd ᴴᴰ" group-title="Kurdish Channels",4Kurd ᴴᴰ
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="Walla ᴴᴰ" group-title="Kurdish Channels",Walla ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="Naqshi Media ᴴᴰ" group-title="Kurdish Channels",Naqshi Media ᴴᴰ
+http://naqshi-media.com:1935/live/NaqshiMedia/HawezHD.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="Mihrab FM ᴴᴰ" group-title="Kurdish Channels",Mihrab FM ᴴᴰ
+http://bblserver.ddns.net:1935/live/mihrabfm/HawezHD.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="Kurd 7 ᴴᴰ" group-title="Kurdish Channels",Kurd 7 ᴴᴰ
+http://avrstream.com:1935/live/Kurd7HD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="Ashti ᴴᴰ" group-title="Kurdish Channels",Ashti ᴴᴰ
+http://avrstream.com:1935/live/AshtiTV/chunklist_w1836984692.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="ESRA 2 ᴴᴰ" group-title="Kurdish Channels",ESRA 2 ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="Afarin ᴴᴰ" group-title="Kurdish Channels",Afarin ᴴᴰ
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="Afarin Baxcha ᴴᴰ" group-title="Kurdish Channels",Afarin Baxcha ᴴᴰ
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/hawezhd.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="Afarin Radio ᴴᴰ" group-title="Kurdish Channels",Afarin Radio ᴴᴰ
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="MMN ᴴᴰ" group-title="Kurdish Channels",MMN ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddshow/HawezHD.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="MMN Quran ᴴᴰ" group-title="Kurdish Channels",MMN Quran ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdquran/HawezHD.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="MMN News ᴴᴰ" group-title="Kurdish Channels",MMN News ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdnews/HawezHD.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="MMN Movies ᴴᴰ" group-title="Kurdish Channels",MMN Movies ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdmovies/HawezHD.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="MMN Action ᴴᴰ" group-title="Kurdish Channels",MMN Action ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdaction/HawezHD.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="MMN Drama ᴴᴰ" group-title="Kurdish Channels",MMN Drama ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddrama/HawezHD.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="MMN Kids ᴴᴰ" group-title="Kurdish Channels",MMN Kids ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdkids/HawezHD.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="MMN Turkey ᴴᴰ" group-title="Kurdish Channels",MMN Turkey ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/HawezHD.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="MMN Documentary ᴴᴰ" group-title="Kurdish Channels",MMN Documentary ᴴᴰ
+http://mmn.mypsx.net:1935/live/mmnhddocumentary/HawezHD.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="NRT 4 ᴴᴰ" group-title="Kurdish Channels",NRT 4 ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="Kurd Channel ᴴᴰ" group-title="Kurdish Channels",Kurd Channel ᴴᴰ
+https://iko-live.akamaized.net/kurdhd/master.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="Kurdistan TV ᴴᴰ" group-title="Kurdish Channels",Kurdistan TV ᴴᴰ
+https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/HawezHD.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="Bnar ᴴᴰ" group-title="Kurdish Channels",Bnar ᴴᴰ
+http://baskhd.ddns.net:40/live/bnar4k/HawezHD.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Bnar Movies ᴴᴰ" group-title="Kurdish Channels",Bnar Movies ᴴᴰ
+http://baskhd.ddns.net:40/live/bnarmovies/chunklist_w190169647.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="Animal Boxᴴᴰ" group-title="Kurdish Channels",Animal Boxᴴᴰ
+https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="Kordestan ᴴᴰ" group-title="Kurdish Channels",Kordestan ᴴᴰ
+https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="Mahabad ᴴᴰ" group-title="Kurdish Channels",Mahabad ᴴᴰ
+https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="TRT Kurdî ᴴᴰ" group-title="Kurdish Channels",TRT Kurdî ᴴᴰ
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="Duhok ᴴᴰ" group-title="Kurdish Channels",Duhok ᴴᴰ
+http://duhok.badinan.xyz:1935/live/DuhokTV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="ZEVER Quran Kareemᴴᴰ" group-title="Kurdish Channels",ZEVER Quran Kareemᴴᴰ
+http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/HawezHD.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="Ravand ᴴᴰ" group-title="Kurdish Channels",Ravand ᴴᴰ
+http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="Waar ᴴᴰ" group-title="Kurdish Channels",Waar ᴴᴰ
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="Like Movies Plus ᴴᴰ" group-title="Kurdish Channels",Like Movies Plus ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-likemovies+/likemovies+/chunks.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="Bangxwazen Badinan ᴴᴰ" group-title="Kurdish Channels",Bangxwazen Badinan ᴴᴰ
+http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/HawezHD.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Niroj ᴴᴰ" group-title="Kurdish Channels",Niroj ᴴᴰ
+http://142.132.133.190:1935/live/Niroj_HD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Befrin ᴴᴰ" group-title="Kurdish Channels",Befrin ᴴᴰ
+http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="Kidco ᴴᴰ" group-title="Kurdish Channels",Kidco ᴴᴰ
+http://avrstream.com:1935/live/kidcohd/HawezHD.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="Pro TV ᴴᴰ" group-title="Kurdish Channels",Pro TV ᴴᴰ
+http://tv.ezanvaktipro.com/hls/quran.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="Jin ᴴᴰ" group-title="Kurdish Channels",Jin ᴴᴰ
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="Zarok TV ᴴᴰ" group-title="Kurdish Channels",Zarok TV ᴴᴰ
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="21 ᴴᴰ" group-title="Kurdish Channels",21 ᴴᴰ
+http://hawez@k21hd.mypsx.net:40/live/KANALI/HawezHD.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Spi Kids ᴴᴰ" group-title="Kurdish Channels",Spi Kids ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="Welat ᴴᴰ" group-title="Kurdish Channels",Welat ᴴᴰ
+http://stream.welattv.net:1935/welat/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Soz ᴴᴰ" group-title="Kurdish Channels",Soz ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="Soz Quran ᴴᴰ" group-title="Kurdish Channels",Soz Quran ᴴᴰ
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Soz Movies ᴴᴰ" group-title="Kurdish Channels",Soz Movies ᴴᴰ
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Ranya City ᴴᴰ" group-title="Kurdish Channels",Ranya City ᴴD
+https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="MBC 1" tvg-logo="" group-title="Arabic Channels",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="MBC 3" tvg-logo="" group-title="Arabic Channels",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="MBC 4" tvg-logo="" group-title="Arabic Channels",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/1080p2400kbps/video.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="MBC 5" tvg-logo="" group-title="Arabic Channels",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="MBC Masr 1" tvg-logo="" group-title="Arabic Channels",MBC Masr 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="MBC MASR Drama" tvg-logo="" group-title="Arabic Channels",MBC MASR Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="MBC iRAQ" tvg-logo="" group-title="Arabic Channels",MBC iRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Al Sharqiya" tvg-logo="" group-title="Arabic Channels",Al Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1274094629.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="utv iraqi" tvg-logo="" group-title="Arabic Channels",utv iraqi
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Al Iraqia" tvg-logo="" group-title="Arabic Channels",Al Iraqia
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="Alsharqiya News" tvg-logo="" group-title="Arabic Channels",Alsharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Al jazeera" tvg-logo="http://widget.ottplayer.tv/pictures/353.png" group-title="Arabic Channels",Al jazeera
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Al Jazeera ENGLISH" tvg-logo="http://widget.ottplayer.tv/pictures/22003.png" group-title="Arabic Channels",Al Jazeera ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="Al jazeera Mubasheer" tvg-logo="" group-title="Arabic Channels",Al jazeera Mubasheer
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="Al Arabiya" tvg-logo="" group-title="Arabic Channels",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="Sky News Arabia" tvg-logo="http://widget.ottplayer.tv/pictures/22062.png" group-title="Arabic Channels",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="TRT Arabic" tvg-logo="" group-title="Arabic Channels",TRT Arabic
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="DW Arabic" tvg-logo="" group-title="Arabic Channels",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="Al Aqsa Channel" tvg-logo="" group-title="Arabic Channels",Al Aqsa Channel
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="Lana Syria" tvg-logo="" group-title="Arabic Channels",Lana Syria
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="Qatar" tvg-logo="" group-title="Arabic Channels",Qatar
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="MANAR TV" tvg-logo="" group-title="Arabic Channels",MANAR TV
+https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="Rajeen" tvg-logo="" group-title="Arabic Channels",Rajeen
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="Noor Dubai" tvg-logo="" group-title="Arabic Channels",Noor Dubai
+http://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Al Istiqama" tvg-logo="" group-title="Arabic Channels",Al Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="Bahrain Quran" tvg-logo="" group-title="Arabic Channels",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="Mekameleen" tvg-logo="" group-title="Arabic Channels",Mekameleen
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="AL khalij" tvg-logo="" group-title="Arabic Channels",AL khalij
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="Saudi Quran" tvg-logo="" group-title="Arabic Channels",Saudi Quran
+http://m.live.net.sa:1935/live/quran/quran.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="Saudi Sunnah" tvg-logo="" group-title="Arabic Channels",Saudi Sunnah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="Alhurra" tvg-logo="" group-title="Arabic Channels",Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="Al Nahrain" tvg-logo="" group-title="Arabic Channels",Al Nahrain
+https://stream.alnahrain.tv/AlnahrainTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="RT ARABIC" tvg-logo="http://widget.ottplayer.tv/pictures/868.png" group-title="Arabic Channels",RT ARABIC
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="Nabaa" tvg-logo="" group-title="Arabic Channels",Nabaa
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="Iqraa Quran" tvg-logo="" group-title="Arabic Channels",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8?checkedby:halabja88
+#EXTINF:-1 tvg-id="140" tvg-name="Musawa" tvg-logo="" group-title="Arabic Channels",Musawa
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="Dijlah" tvg-logo="" group-title="Arabic Channels",Dijlah
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="iFILM arabic" tvg-logo="" group-title="Arabic Channels",iFILM arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="Zagros" tvg-logo="" group-title="Arabic Channels",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="Abu Dhabi Channel" tvg-logo="" group-title="Arabic Channels",Abu Dhabi Channel
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="TRT World" tvg-logo="http://widget.ottplayer.tv/pictures/1233.png" group-title="Arabic Channels",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="Huda" tvg-logo="" group-title="Arabic Channels",Huda
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="147" tvg-name="Baynounah" tvg-logo="" group-title="Arabic Channels",Baynounah
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/stream_04/index.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="Falastin Alyawm" tvg-logo="" group-title="Arabic Channels",Falastin Alyawm
+https://live.paltodaytv.com/paltv/live/bravoiptv.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="Palestine" tvg-logo="" group-title="Arabic Channels",Palestine
+https://pbc.furrera.ps/palestinelivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="Libya Al Wataniya" tvg-logo="" group-title="Arabic Channels",Libya Al Wataniya
+http://149.100.11.235:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="al ayyam tv" tvg-logo="" group-title="Arabic Channels",al ayyam tv
+http://95.216.180.111:1935/live/6/chunklist.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="Al Shallal TV" tvg-logo="" group-title="Arabic Channels",Al Shallal TV
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="Africa TV 2" tvg-logo="" group-title="Arabic Channels",Africa TV 2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="AL Wusta" tvg-logo="" group-title="Arabic Channels",AL Wusta
+https://clvod.itworkscdn.net/smcvod/smil:itwfcdn/smc/1185538-UJ18c4U99601od6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="Aflam" tvg-logo="" group-title="Arabic Channels",Aflam
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Syria" tvg-logo="" group-title="Arabic Channels",Syria
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="ALJADEED TV" tvg-logo="" group-title="Arabic Channels",ALJADEED TV
+http://185.9.2.18/chid_391/mono.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="CNBC ARABIA" tvg-logo="" group-title="Arabic Channels",CNBC ARABIA
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="Nidae AlIslam Radio" tvg-logo="" group-title="Arabic Channels",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="MAKKAH" tvg-logo="" group-title="Arabic Channels",MAKKAH
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w300559019.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="Shams Tv" tvg-logo="" group-title="Arabic Channels",Shams Tv
+https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="Voice of Lebnon" tvg-logo="" group-title="Arabic Channels",Voice of Lebnon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="Al Riyadh Radio" tvg-logo="" group-title="Arabic Channels",Al Riyadh Radio
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8?checkedby:halabja88
+#EXTINF:-1 tvg-id="164" tvg-name="Alkhuzama Radio" tvg-logo="" group-title="Arabic Channels",Alkhuzama Radio
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8?checkedby:halabja88
+#EXTINF:-1 tvg-id="165" tvg-name="Big Time Plus" tvg-logo="" group-title="Arabic Channels",Big Time Plus
+https://big-time-plus-enc.edgenextcdn.net/out/v1/c885383fb76943c98fa223e7fd08b125/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="166" tvg-name="AL Itihad" tvg-logo="" group-title="Arabic Channels",AL Itihad
+https://www.google.com/search?q=http://185.105.4.151:8080/defapp/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Alqanat 9 Tv" tvg-logo="" group-title="Arabic Channels",Alqanat 9 Tv
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="Ajyal TV" tvg-logo="" group-title="Arabic Channels",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+TESTINF:-1 tvg-id="169" tvg-name="ON" tvg-logo="" group-title="Arabic Channels",ON
+#EXTINF:-1 tvg-id="170" tvg-name="GLOBAL NEWS" tvg-logo="" group-title="Arabic Channels",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="Jordan Kitchen" tvg-logo="" group-title="Arabic Channels",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="Dijlah" tvg-logo="" group-title="Arabic Channels",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="173" tvg-name="قناة عجمان بث مباشر" tvg-logo="" group-title="Arabic Channels",قناة عجمان بث مباشر
+https://cdn1.logichost.in/ajmantv/live/chunklist_w1306842351.m3u8

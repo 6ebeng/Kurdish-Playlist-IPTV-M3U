@@ -1,67 +1,11 @@
 #EXTM3U
-# Not Working Streams - Generated 2025-11-11 00:42:46
-# Total: 15 streams
-# Failed: 15 | Invalid URLs: 0
+# Not Working Streams - Generated 2025-11-11 01:07:29
+# Total: 1 streams
+# Failed: 1 | Invalid URLs: 0
 
 # ========== FAILED STREAMS (Connection/Timeout Issues) ==========
 
-#EXTINF:-1 tvg-name="Amozhgary ᴴᴰ" group-title="Kurdish Channels",Amozhgary ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 75
-https://app-live.org/live/3268334b/index.m3u8
-
-#EXTINF:-1 tvg-name="Baha Entertainment ᴴᴰ" group-title="Kurdish Channels",Baha Entertainment ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 191
-https://live9.karwan.tv/Bahatvyusfstore/index.m3u8
-
-#EXTINF:-1 tvg-name="Batifa TV ᴴᴰ" group-title="Kurdish Channels",Batifa TV ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 183
-http://142.132.133.190:1935/live/BATIFA-TV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ESRA 1 ᴴᴰ" group-title="Kurdish Channels",ESRA 1 ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 109
-https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Esra Quran ᴴᴰ" group-title="Kurdish Channels",Esra Quran ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 113
-https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Gewher Sport ᴴᴰ" group-title="Kurdish Channels",Gewher Sport ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 171
-http://142.132.133.190:1935/live/Gewher_Sport/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Gewher ᴴᴰ" group-title="Kurdish Channels",Gewher ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 169
-http://142.132.133.190:1935/live/Gewher/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Hormzyar ᴴᴰ" group-title="Kurdish Channels",Hormzyar ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 107
-http://avrstream.com:1935/live/HormzyarHD/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Kurdi TV ᴴᴰ" group-title="Kurdish Channels",Kurdi TV ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 103
-https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
-
-#EXTINF:-1 tvg-name="Kurdmax Badini ᴴᴰ" group-title="Kurdish Channels",Kurdmax Badini ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 157
-https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Kurdmax Show Badini ᴴᴰ" group-title="Kurdish Channels",Kurdmax Show Badini ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 159
-https://6476e46b58f91.streamlock.net:443/liveTrans/SHOW2/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Mihrab TV ᴴᴰ" group-title="Kurdish Channels",Mihrab TV ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 95
-http://baskhd.ddns.net:40/live/MihrabTV/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Niga Family ᴴᴰ" group-title="Kurdish Channels",Niga Family ᴴᴰ
-# ERROR: Timeout | Original Line: 105
-https://live9.karwan.tv/nigafamleytvyusfstore/index.m3u8
-
-#EXTINF:-1 tvg-name="Nubar Plus ᴴᴰ" group-title="Kurdish Channels",Nubar Plus ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 207
-http://stream.nubar.tv:1935/private/NUBARPlus/HawezHD.m3u8
-
-#EXTINF:-1 tvg-name="Nubar ᴴᴰ" group-title="Kurdish Channels",Nubar ᴴᴰ
-# ERROR: HTTP 404 | Original Line: 205
-http://stream.nubar.tv:1935/private/NUBARtv/HawezHD.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya" group-title="Arabic Channels",Al Arabiya
+# ERROR: HTTP 404 | Original Line: 209
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
